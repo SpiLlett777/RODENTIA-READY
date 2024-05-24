@@ -1,0 +1,440 @@
+fileFormatVersion: 2
+guid: 6f6fcfdc398f7d7449de6a7f8475041c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6731212000343033981
+    second: Walk_animation_hero_0
+  - first:
+      213: -5856489806019073984
+    second: Walk_animation_hero_1
+  - first:
+      213: 7980343221607792249
+    second: Walk_animation_hero_2
+  - first:
+      213: 2241451288743857531
+    second: Walk_animation_hero_3
+  - first:
+      213: -2082608492342417391
+    second: Walk_animation_hero_4
+  - first:
+      213: 4273833658892111782
+    second: Walk_animation_hero_5
+  - first:
+      213: -1606346972994042780
+    second: Walk_animation_hero_6
+  - first:
+      213: 4065424476737368748
+    second: Walk_animation_hero_7
+  - first:
+      213: 764623746696063717
+    second: Walk_animation_hero_8
+  - first:
+      213: 337604301407712433
+    second: Walk_animation_hero_9
+  - first:
+      213: 150870133542981570
+    second: Walk_animation_hero_10
+  - first:
+      213: 7344150357417722662
+    second: Walk_animation_hero_11
+  - first:
+      213: -3233151742416103333
+    second: Walk_animation_hero_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Walk_animation_hero_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1425
+        width: 800
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65d8241fb71324418c2f08ce2c12949
+      internalID: 1910887978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_animation_hero_1
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1425
+        width: 800
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c40877da722a6a4b85a3f7cb86ab7b6
+      internalID: 1003012929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_animation_hero_2
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1425
+        width: 800
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a6f3d23ba1ea14da342b8d1252f23e
+      internalID: 2100797130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_animation_hero_3
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1425
+        width: 800
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56db88c68e9b2c1488e7bba14fdf1685
+      internalID: -1734508051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_animation_hero_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 950
+        width: 800
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d97be38d4a7fb4fba7b88c2adfba3e
+      internalID: -741257243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_animation_hero_5
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 950
+        width: 800
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c6900a8952a114f8568ae6e3d8f408
+      internalID: 1501431410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_animation_hero_6
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 950
+        width: 800
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc941cf148516b248889c5ca9712085d
+      internalID: 989297634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_animation_hero_7
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 950
+        width: 800
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b35fd818309ab2408ed4d0bc140c77b
+      internalID: -1730325280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_animation_hero_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 475
+        width: 800
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ef970c9c08c7448b0b88426d7ea610
+      internalID: 1503807962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_animation_hero_9
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 475
+        width: 800
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5538fa380caa1347b668d0879f96f88
+      internalID: 759842960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_animation_hero_10
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 475
+        width: 800
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905338d9080afb24d88cea67a7069b63
+      internalID: 1178975670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_animation_hero_11
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 475
+        width: 800
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355e636795e1aba46b3c2d62c7872362
+      internalID: -100611236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_animation_hero_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 800
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb923c0bd72231442a294e19d52f348e
+      internalID: -484231911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 77b669588d4c25b478535d4a2ed01b8e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Walk_animation_hero_0: 1910887978
+      Walk_animation_hero_1: 1003012929
+      Walk_animation_hero_10: 1178975670
+      Walk_animation_hero_11: -100611236
+      Walk_animation_hero_12: -484231911
+      Walk_animation_hero_13: 2044241068
+      Walk_animation_hero_2: 2100797130
+      Walk_animation_hero_3: -1734508051
+      Walk_animation_hero_4: -741257243
+      Walk_animation_hero_5: 1501431410
+      Walk_animation_hero_6: 989297634
+      Walk_animation_hero_7: -1730325280
+      Walk_animation_hero_8: 1503807962
+      Walk_animation_hero_9: 759842960
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
